@@ -1,0 +1,12 @@
+### Footprint positions - created on 2025-04-11T09:36:31+0530 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                                              PosX       PosY       Rot  Side
+D1        LED             LED_D5.0mm                                       128.5400  -106.8400    0.0000  top
+J1        Jack-DC         BarrelJack_CUI_PJ-036AH-SMT_Horizontal           116.6500  -103.8100    0.0000  top
+R1        R               R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical   137.5000   -96.3600    0.0000  top
+U1        ESP32-WROOM-32  ESP32-WROOM-32                                   131.7500   -83.7500    0.0000  top
+U2        AMS1117         SOT-223-3_TabPin2                                131.0000   -98.9850    0.0000  top
+U4        HC-SR04         Pin_D1.1mm_L10.2mm_W3.5mm_Flat                   128.8500  -112.7000    0.0000  top
+## End
